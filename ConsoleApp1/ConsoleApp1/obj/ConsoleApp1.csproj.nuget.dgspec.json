@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kodiu\\source\\repos\\TestRep\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\NewApp\\TestRep\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kodiu\\source\\repos\\TestRep\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\NewApp\\TestRep\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kodiu\\source\\repos\\TestRep\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\NewApp\\TestRep\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\kodiu\\source\\repos\\TestRep\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\kodiu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kodiu\\source\\repos\\TestRep\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "projectPath": "D:\\NewApp\\TestRep\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\progi\\.nuget\\packages\\",
+        "outputPath": "D:\\NewApp\\TestRep\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kodiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\progi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
